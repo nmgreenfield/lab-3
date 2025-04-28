@@ -1,0 +1,4 @@
+- source: dashboard.qmd
+  quarto-pub:
+    - id: e9e24420-5100-406c-ac1b-fed3a472bcb2
+      url: 'https://nmgreenfield.quarto.pub/lab-3'
